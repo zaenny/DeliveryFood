@@ -1,5 +1,6 @@
 import MealItem from "./MealItem";
 import useHttp from "./hooks/useHttp";
+import Error from "./Error"
 
 // config 재생성을 막는 방법
 const requestConfig = {};
